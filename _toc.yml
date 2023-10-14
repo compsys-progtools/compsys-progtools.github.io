@@ -5,7 +5,7 @@ parts:
     chapters:
     - file: resources/references
     - file: fromstudents
-  - caption: Syllabi
+  - caption: Past Syllabi
     chapters:
     - url: https://introcompsys.github.io/spring2022
       title: Spring 2022
@@ -13,6 +13,8 @@ parts:
       title: Fall 2022
     - url: https://introcompsys.github.io/spring2023
       title: Spring 2023
+    - url: https://introcompsys.github.io/fall2023
+      title: Fall 2023
 #   - caption: Syllabus
 #     chapters:
 #       - file:
