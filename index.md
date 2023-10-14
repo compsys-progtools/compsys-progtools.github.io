@@ -1,4 +1,4 @@
-# Introduction to Computer Systems
+# Computer Systems and Programming Tools
 
 This new course links together different ideas that you have encountered but not covered
 deeply in other courses.  We'll learn about tools used in programming and how they
