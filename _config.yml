@@ -1,7 +1,7 @@
 # Book settings
 title: Introduction to Computer Systems
 author:  Sarah M Brown
-logo: logo
+logo: logo.png
 
 html:
   favicon                   : ""  # A path to a favicon image

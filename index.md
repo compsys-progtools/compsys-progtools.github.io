@@ -3,7 +3,7 @@
 This new course links together different ideas that you have encountered but not covered
 deeply in other courses.  We'll learn about tools used in programming and how they
 work. The goal of this course is to help you understand how your computer and programming
-environment work so that you can debug and learn independently more confident.
+environment work so that you can debug and learn independently more confidently.
 
 
 ## Quick Facts
