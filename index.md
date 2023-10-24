@@ -124,7 +124,9 @@ This class is currently planned to be capped at 30 students.
 
 
 ```{dropdown} Will there be a lab? 
-There is no separate lab to register, but this is an active learning course.  This means that I expect the class time itself to play a significant role in your initial learning of the topics.  You will preview and review outside of class and depending on your own goals explore topics deeper outside of class. Active participation, bringing your laptop to try things out as I show them and answering questions in class (verbally or through a classroom chat tool; free) are required. 
+Yes there is a lab for the course.  The lab is designed to provide accountability and support in getting your  work done.  Sometimes there are specific tasks to do in lab for lab credit.  These tasks are usually things to make sure you are prepared for the next class or a strucutred way of practicing with the material from class and make sure you understand the material so that you can do the other assignments. Most lab time allows you to work on other work for the course with help available.  
+
+In person attendance in labs is expected, but if need be you can make up a lab by completing the tasks and attending office hours. 
 ```
 
 
