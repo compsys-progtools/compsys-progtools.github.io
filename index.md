@@ -26,7 +26,7 @@ the form early.
 <!-- Fall 2023, TuTh 12:30PM - 1:45PM -->
 <!-- Spring 2024, TuTh 12:30PM - 1:45PM -->
 
-To request a permission number [complete this google form](https://forms.gle/EHDGqJzLg1jsyuqZ6)
+To request a permission number [complete this google form](https://forms.gle/rKf8PzCA9aqahunA9)
 
 **you must be signed into your URI google account to access the form**
 
