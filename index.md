@@ -16,9 +16,9 @@ the form early.
 ## Quick Facts
 
 - **Course time:** 	TuTh 12:30PM - 1:45PM Fall 2024
-- **Location:** TBA
+- **Location:** Library 166
 - **Credits:** 4
-- **Mandatory Lab:** Monday 3-4:45pm (subject to change in fall 2024
+- **Mandatory Lab:** Monday 3-4:45pm (confirmed for FA2024 SWAN305- room subject to change)
 
 <!-- Fall 2022, MW 4:30PM - 5:45PM -->
 <!-- Spring 2022, TuTh 12:30PM - 1:45PM -->
