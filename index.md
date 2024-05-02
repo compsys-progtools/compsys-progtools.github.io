@@ -1,17 +1,11 @@
-# Computer Systems and Programming Tools
+# CSC311: Computer Systems and Programming Tools
 
 This new course links together different ideas that you have encountered but not covered
 deeply in other courses.  We'll learn about tools used in programming and how they
 work. The goal of this course is to help you understand how your computer and programming
 environment work so that you can debug and learn independently more confidently.
 
-```{important}
-We expect that this course will actually run as CSC311 for the Fall semester, but CSC311
-will not be ready in ecampus in time for registration. We will not distribute permission
-numbers for CSC392, but use that list to give permission numbers for the new course
-which will have permission numbers turned on so that we can prioritize people who complete
-the form early.
-```
+
 
 ## Quick Facts
 
@@ -26,7 +20,7 @@ the form early.
 <!-- Fall 2023, TuTh 12:30PM - 1:45PM -->
 <!-- Spring 2024, TuTh 12:30PM - 1:45PM -->
 
-To request a permission number [complete this google form](https://forms.gle/rKf8PzCA9aqahunA9)
+To request a permission number before May 31 [complete this google form](https://forms.gle/rKf8PzCA9aqahunA9)
 
 **you must be signed into your URI google account to access the form**
 
