@@ -61,4 +61,8 @@ This class offers experience with working with groups on assignments, yall know 
 I believe this class is important because for a student like me I did not know how to start my projects and I wasnt to secure with programming but alot of the assignments for example made me research into other languages that are like the famous ones and I found it really interesting because it showed me there were more programming languages out there beside C and java. This will also allow you to learn scripting and bash which getting a head start with your future classes will help.
 
 
+Students should take this class as they will be working with other programmers to develop code most likely using github, which this class teaches you the basics of. This class is beneficial in that it teaches about how the terminal works and how your computer compiles code, as previous classes do not focus on explaining those. Companies may use a remote server and reading writing which the class also explains. This course also gives students the possibility of working with other students to create project.s In conclusion, while other classes teach you only how to code by yourself, this course introduces students to working with others to accomplish a project using technology they will need in the future and teaches students into how the computer works itself. 
+
+
+
 
