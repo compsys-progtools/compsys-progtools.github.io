@@ -20,7 +20,7 @@ environment work so that you can debug and learn independently more confidently.
 <!-- Fall 2023, TuTh 12:30PM - 1:45PM -->
 <!-- Spring 2024, TuTh 12:30PM - 1:45PM -->
 
-To request a permission number before May 31 [complete this google form](https://forms.gle/rKf8PzCA9aqahunA9)
+<!-- To request a permission number before May 31 [complete this google form](https://forms.gle/rKf8PzCA9aqahunA9) -->
 
 **you must be signed into your URI google account to access the form**
 
