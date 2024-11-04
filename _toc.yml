@@ -15,6 +15,10 @@ parts:
       title: Spring 2023
     - url: https://introcompsys.github.io/fall2023
       title: Fall 2023
+    - url : https://compsys-progtools.github.io/spring2024
+      title: Spring 2024
+    - url: https://compsys-progtools.github.io/fall2024
+      title: Fall 2024
 #   - caption: Syllabus
 #     chapters:
 #       - file:
