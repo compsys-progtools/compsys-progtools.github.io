@@ -47,7 +47,7 @@ is also a huge benefit to this class as it will save you a ton of time when taki
 You should take this class if you want to learn more about git, github, and how to use the terminal.
 
 
-YOu should take this class because it introduces you to new concepts about computer science. It helps 
+You should take this class because it introduces you to new concepts about computer science. It helps 
 you gain experience/knowledge about real world applications. For example, we go over a lot of github 
 commnads and the many things you can do with github. This will help you in the real world but also while 
 your still in school. Currently, I am stil only in CSC 212 but I have already used github a bunch. With 
