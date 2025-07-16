@@ -9,10 +9,10 @@ environment work so that you can debug and learn independently more confidently.
 
 ## Quick Facts
 
-- **Course time:** 	TuTh 12:30PM - 1:45PM Spring 2025
-- **Location:** Ranger Hall - RM 302
+- **Course time:** 	TuTh 12:30PM - 1:45PM Fall 2025
+- **Location:** Library 166
 - **Credits:** 4
-- **Mandatory Lab:** Monday 3:00PM -4:45PM Ranger Hall - RM 202
+- **Mandatory Lab:** Monday 3:00PM -4:45PM Ballentine Hall 114
 
 <!-- Fall 2022, MW 4:30PM - 5:45PM -->
 <!-- Spring 2022, TuTh 12:30PM - 1:45PM -->
@@ -20,6 +20,7 @@ environment work so that you can debug and learn independently more confidently.
 <!-- Fall 2023, TuTh 12:30PM - 1:45PM -->
 <!-- Spring 2024, TuTh 12:30PM - 1:45PM -->
 <!-- Fall 2024, TuTh 12:30PM - 1:45PM -->
+<!-- Spring 2025, TuTh 12:30PM - 1:45PM -->
 
 <!-- To request a permission number before May 31 [complete this google form](https://forms.gle/rKf8PzCA9aqahunA9) -->
 
@@ -82,7 +83,7 @@ or less tend to not do well.
 
 ```{dropdown} What will the course be like?
 
-You can see the notes and syllabus for Spring 2023 on the semester's [course website](https://introcompsys.github.io/spring2023). Some things will change for Fall 2023, but the basic ideas will be similar.
+You can see the notes and syllabus for past semesters linked on the sides.  Some things change each semester, but the basic ideas are consistent. 
 
 In each class session, we will explore through hands on activities with bits of lecture different topics.  After that, you will have things to try and experiment with to reinforce what you learn so that you retain it and learn more details about the topics you like best.  Assignments will include mostly short answers and small excerpts of code, a lot of scripting, less long projects.  The grading is set up so that you choose the level of depth you want to study at (and corresponding grade) and then you work to demonstrate that level of understanding through revisions as needed.  
 ```
@@ -106,20 +107,11 @@ A lot of the topics we'll cover have been touched at least in very brief passing
 4
 ```
 
-```{dropdown} Why does e-campus let us choose a number of credits?
-CSC392 (actually all CSCx92) is a special course number we put in ecampus to allow
-faculty to develop new courses or teach a one time offering. We call it a "Topics Course."
-Courses offered as CSCx92 can be different every semester, or even multiple "sections" in
-a given semester all covering completely different things.
 
-A specific topic can be offered as CSCx92 three times before becoming a regular course
-and getting its own course number.
-```
 
 ```{dropdown} How does this count toward my CS Major?
 
-This course will count toward the CSC Elective requirement.
-The catalog says, "Two CSC or CSF courses at the 300-level or above. CSC 392, 491 may only be used with departmental permission." The department will approve this course for that purpose after you submit a Curriculum Modification to allow it to count.
+This course will count toward the CSC300+ Elective requirement
 ```
 
 ```{dropdown} How big is the class? 
