@@ -12,7 +12,7 @@ html:
   home_page_in_navbar       : true
   use_multitoc_numbering: false
   # extra_navbar            : Download complete <a href="">PDF</a> # Will be displayed underneath the
-  announcement              : this course will run as CSC311 in Fall 2024. Permission numbers will not be required after June.
+  announcement              : this course ran as CSC392: Intro to Computer Systems prior to Fall 2024, CSC311 is the new permanent number
 
 
 repository:
