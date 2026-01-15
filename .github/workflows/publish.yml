@@ -52,7 +52,7 @@ jobs:
         jupyter-book build .
 
     - name: Upload book
-      uses: actions/upload-pages-artifact@v6
+      uses: actions/upload-pages-artifact@v4
       with:
         path: ./_build/html
 
@@ -67,4 +67,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
