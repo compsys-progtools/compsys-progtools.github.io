@@ -9,7 +9,7 @@ environment work so that you can debug and learn independently more confidently.
 
 ## Quick Facts
 
-- **Course time:** 	TuTh 12:30PM - 1:45PM Fall 2025
+- **Course time:** 	TuTh 12:30PM - 1:45PM Spring 2026
 - **Location:** Ranger Hall room 302
 - **Credits:** 4
 - **Mandatory Lab:** Monday 3:00PM -4:45PM 	Ranger Hall room 202
